@@ -652,6 +652,7 @@ section {
   }
 
   .right-contact {
+      
       flex: 3;
       margin-left: 3rem;
       .input-control {
@@ -680,6 +681,8 @@ section {
           display: flex;
           justify-content: flex-start;
       }
+      
+      
   }
 }
 
